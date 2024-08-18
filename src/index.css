@@ -1,0 +1,16 @@
+:root{
+  --white : #FFF;
+  --bg: #231942;
+  --primary: #5e548e;
+  
+}
+html{
+  font-size: 62.5%;
+}
+body{
+  font-family: 'Outfit', sans-serif;
+  background-color: var(--bg);
+  color: var(--white);
+  font-size: 2rem;
+
+}
